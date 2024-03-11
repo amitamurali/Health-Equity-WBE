@@ -44,7 +44,7 @@ Table of Contents
     files_to_import: Contains the datasets used in the study. Throughout each notebook file, there are instructions to “Insert the correct file directory here.” 
     Here, the file name in the code should correspond to the file present in this folder, though the directory will change depending on where you store the file.
   
-	    tl_2020_06_tabblock20 is the 2020 Census block-level data. This file must be downloaded from Census.gov.
+	    tl_2020_06_tabblock20 is the 2020 Census block-level data. This file must be downloaded from data.census.gov.
      
     race_probabilistic_assignment.ipynb: Adapts the tool developed by Safford et al. (2022) to probabilistically assign demographic data (race) to sub-sewershed zones in Davis.
   
