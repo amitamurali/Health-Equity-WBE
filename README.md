@@ -18,7 +18,7 @@ About the project
     centralized wastewater treatment plant. The sub-city scale sampling achieved near complete coverage of the population, with spatial 
     resolution that informed public health communication initiatives within the city. Wastewater data aggregated from the sub-city scale 
     as a population-weighted mean correlated strongly with wastewater data collected from the centralized treatment plant (Spearman’s Rank 
-    correlation coefficient 0.905). We considered four down-scaling scenarios for a reduction in the number of sampling zones from baseline 
+    correlation coefficient 0.909). We considered four down-scaling scenarios for a reduction in the number of sampling zones from baseline 
     by 25% and 50%, chosen either randomly or by prioritizing maintenance of coverage for the >65-year-old population. Prioritizing 
     representation of this vulnerable population in zone selection increased coverage of >65-year-olds from 51.1% to 67.2% when removing 
     half of the sampling zones, while simultaneously increasing coverage of Black or African American populations from 67.5% to 76.7%. 
